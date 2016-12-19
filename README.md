@@ -1,6 +1,5 @@
-# React Minimal Boilerplate
-
-A very lean React boilerplate, using webpack.
+# screenshot-test-builder
+builds a screen shot test
 
 ## Development
 Run the following commands:
